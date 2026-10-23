@@ -21,3 +21,6 @@ scripts/*.png
 # qodergate-register 导出凭据
 accounts.json
 qodergate-register/accounts.json
+
+# 本机 API key
+.external-api-key
